@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/shubhamvk620/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/shubhamvk620/LeetCode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/shubhamvk620/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shubhamvk620/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shubhamvk620/LeetCode/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shubhamvk620/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/shubhamvk620/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2206-divide-array-into-equal-pairs](https://github.com/shubhamvk620/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/shubhamvk620/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shubhamvk620/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
 | ------- |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shubhamvk620/LeetCode/tree/master/0011-container-with-most-water) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shubhamvk620/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,8 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/shubhamvk620/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shubhamvk620/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shubhamvk620/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
