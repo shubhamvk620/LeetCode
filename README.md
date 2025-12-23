@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shubhamvk620/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/shubhamvk620/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/shubhamvk620/LeetCode/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/shubhamvk620/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
 | [1089-duplicate-zeros](https://github.com/shubhamvk620/LeetCode/tree/master/1089-duplicate-zeros) |
 | [2057-smallest-index-with-equal-value](https://github.com/shubhamvk620/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shubhamvk620/LeetCode/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/shubhamvk620/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shubhamvk620/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhamvk620/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/shubhamvk620/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/shubhamvk620/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2206-divide-array-into-equal-pairs](https://github.com/shubhamvk620/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
