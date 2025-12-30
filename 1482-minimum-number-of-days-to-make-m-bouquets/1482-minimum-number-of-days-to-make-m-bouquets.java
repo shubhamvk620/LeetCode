@@ -3,16 +3,12 @@ class Solution {
 
         if(m*k > bloomDay.length){ return -1;}
 
-            int minday = bloomDay[0];
-            for(int i = 1; i< bloomDay.length; i++){
-                if( bloomDay[i] < minday)
-                minday = bloomDay[i];
+           int minday = bloomDay[0], maxday = bloomDay[0];
+            for (int i = 1; i < bloomDay.length; i++) {
+                minday = Math.min(minday, bloomDay[i]);
+                maxday = Math.max(maxday, bloomDay[i]);
             }
-            int maxday = bloomDay[0];
-              for(int i = 1; i< bloomDay.length; i++){
-                if( bloomDay[i] > maxday)
-                maxday = bloomDay[i];
-            }
+
             int ans = -1;
             while( minday <= maxday){
                 int mid = minday + (maxday-minday)/2;
