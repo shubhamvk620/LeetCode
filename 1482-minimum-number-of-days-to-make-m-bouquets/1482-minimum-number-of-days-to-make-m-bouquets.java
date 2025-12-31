@@ -1,4 +1,15 @@
 class Solution {
+    public static boolean isvalid(int[] bloomDay, int m, int k, int day){
+             int flower = 0;
+                int bouquets = 0;
+         for(int j = 0; j < bloomDay.length; j++){
+                    if(bloomDay[j] <= day){
+                        flower++;
+                        if(flower >= k){bouquets++; flower = 0;}
+                    } else flower = 0;
+                }
+                return bouquets >= m;
+    }
     public int minDays(int[] bloomDay, int m, int k) {
 
         if(m*k > bloomDay.length){ return -1;}
@@ -12,22 +23,14 @@ class Solution {
             int ans = -1;
             while( minday <= maxday){
                 int mid = minday + (maxday-minday)/2;
-                int flower = 0;
-                int bouquets = 0;
+               
 
-                for(int j = 0; j < bloomDay.length; j++){
-                    if(bloomDay[j] <= mid){
-                        flower++;
-                        if(flower >= k){bouquets++; flower = 0;}
-                    } else flower = 0;
-                }
-                if(bouquets >= m){
+               
+                if(isvalid(bloomDay, m, k, mid)){
                     ans = mid;
                     maxday = mid-1;
-                     bouquets=0;
                 }else {
                     minday = mid+1;
-                    bouquets = 0;
                 }
             }
             return ans;
