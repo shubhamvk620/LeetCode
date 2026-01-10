@@ -10,8 +10,12 @@ class Solution {
             }else{i++;}
     
         }
+        // 2 index ka array banaye becz eek hi missing & eek hi dubllicate hoga. Not more than 1.
         int[] ans = new int[2];
         for(i = 0; i < nums.length; i++){
+            /* agar num[i] apne correct index pe nhi aaya swap k naad 
+            wahi dublicate hai or wo jike index pe baitha hai (i) wahi i+1 elment misssing hai.*/
+        
             if(nums[i] != i+1){
                ans[0] = nums[i];
                ans[1] = i+1;
