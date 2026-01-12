@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shubhamvk620/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shubhamvk620/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shubhamvk620/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/shubhamvk620/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shubhamvk620/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhamvk620/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shubhamvk620/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/shubhamvk620/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shubhamvk620/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shubhamvk620/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/shubhamvk620/LeetCode/tree/master/0645-set-mismatch) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shubhamvk620/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shubhamvk620/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/shubhamvk620/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0349-intersection-of-two-arrays](https://github.com/shubhamvk620/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1089-duplicate-zeros](https://github.com/shubhamvk620/LeetCode/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shubhamvk620/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shubhamvk620/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shubhamvk620/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/shubhamvk620/LeetCode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shubhamvk620/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhamvk620/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shubhamvk620/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubhamvk620/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shubhamvk620/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/shubhamvk620/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/shubhamvk620/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shubhamvk620/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
