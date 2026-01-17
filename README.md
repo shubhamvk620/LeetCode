@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shubhamvk620/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamvk620/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/shubhamvk620/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shubhamvk620/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/shubhamvk620/LeetCode/tree/master/0645-set-mismatch) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shubhamvk620/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shubhamvk620/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamvk620/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/shubhamvk620/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shubhamvk620/LeetCode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shubhamvk620/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhamvk620/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/shubhamvk620/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shubhamvk620/LeetCode/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/shubhamvk620/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/shubhamvk620/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/shubhamvk620/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shubhamvk620/LeetCode/tree/master/0645-set-mismatch) |
 | [2206-divide-array-into-equal-pairs](https://github.com/shubhamvk620/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Counting
