@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/shubhamvk620/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/shubhamvk620/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/shubhamvk620/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/shubhamvk620/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/shubhamvk620/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shubhamvk620/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shubhamvk620/LeetCode/tree/master/0217-contains-duplicate) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shubhamvk620/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/shubhamvk620/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shubhamvk620/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shubhamvk620/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
