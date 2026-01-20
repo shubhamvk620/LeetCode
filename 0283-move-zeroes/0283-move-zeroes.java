@@ -9,12 +9,10 @@ class Solution {
         int j = nums.length-1;
         while(s < list.size()){
             if(list.get(s) != 0){
-                nums[i]=list.get(s);
-                i++;
+                nums[i++]=list.get(s);
             }
             else{
-                nums[j]=list.get(s);
-                j--;
+                nums[j--]=list.get(s);
             }
             s++;
         }
