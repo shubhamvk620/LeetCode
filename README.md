@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhamvk620/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/shubhamvk620/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/shubhamvk620/LeetCode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shubhamvk620/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shubhamvk620/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/shubhamvk620/LeetCode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhamvk620/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shubhamvk620/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Simulation
@@ -222,4 +224,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shubhamvk620/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/shubhamvk620/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shubhamvk620/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
