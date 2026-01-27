@@ -15,15 +15,15 @@ class Solution {
         dummy.next = head;
         ListNode temp = dummy;
         ListNode slow = dummy;
-        int c = 1;
+        int c = 1; //counting length of LinkedList👇
         while(slow.next != null){
             slow = slow.next;
             c++;
         }
         int i = 1; 
-        int k = c-n; 
+        int k = c-n; // index where is to be delete, fromm start point
        while(i < k){
-        temp = temp.next;
+        temp = temp.next; // moving temp to index whose next is to delete.
         i++;
        }
        temp.next = temp.next.next;
