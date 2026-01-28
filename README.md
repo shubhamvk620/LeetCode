@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/shubhamvk620/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhamvk620/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/shubhamvk620/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/shubhamvk620/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
