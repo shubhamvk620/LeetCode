@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shubhamvk620/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/shubhamvk620/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shubhamvk620/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shubhamvk620/LeetCode/tree/master/0409-longest-palindrome) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shubhamvk620/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shubhamvk620/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
