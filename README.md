@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shubhamvk620/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamvk620/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/shubhamvk620/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/shubhamvk620/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhamvk620/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/shubhamvk620/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shubhamvk620/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shubhamvk620/LeetCode/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/shubhamvk620/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/shubhamvk620/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/shubhamvk620/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/shubhamvk620/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/shubhamvk620/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shubhamvk620/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shubhamvk620/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/shubhamvk620/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/shubhamvk620/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/shubhamvk620/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shubhamvk620/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shubhamvk620/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
