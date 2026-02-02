@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shubhamvk620/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shubhamvk620/LeetCode/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shubhamvk620/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhamvk620/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shubhamvk620/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Simulation
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/0707-design-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shubhamvk620/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
