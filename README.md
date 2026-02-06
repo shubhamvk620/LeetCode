@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/shubhamvk620/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/shubhamvk620/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/shubhamvk620/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shubhamvk620/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/shubhamvk620/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/shubhamvk620/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/shubhamvk620/LeetCode/tree/master/0078-subsets) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/shubhamvk620/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/shubhamvk620/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shubhamvk620/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shubhamvk620/LeetCode/tree/master/0217-contains-duplicate) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/shubhamvk620/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shubhamvk620/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/shubhamvk620/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shubhamvk620/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
