@@ -1,22 +1,26 @@
 class Solution {
-    public static void combinationSum(int[] candidates, int sum, int target,  Set<List<Integer>> ans, List<Integer> curr, int i){
+    public static void combinationSum(int[] candidates, int sum, int target,  List<List<Integer>> ans, List<Integer> curr, int i){
+        //base case
           if(i == candidates.length || sum > target){return;}
-            else if(sum == target){
+          //terget match then add 
+            if(sum == target){
             ans.add(new ArrayList<>(curr));
+            return;
         }
-       
-       
+       //recursion call k pahle ka condition
         curr.add(candidates[i]);
+        // recursion call
         combinationSum(candidates, sum+candidates[i], target, ans, curr, i);
+        //backtracking k pahle ka condition
         curr.remove(curr.size()-1);
-       // sum = sum - candidates[i];
+        //backtracking call
          combinationSum(candidates, sum,target, ans, curr, i+1);
     }
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        Set<List<Integer>> ans = new HashSet<>();
+        List<List<Integer>> ans = new ArrayList<>();
         List<Integer> curr = new ArrayList<>();
         int sum = 0;
         combinationSum(candidates, sum, target, ans, curr, 0);
-        return new ArrayList<>(ans);
+        return ans;
     }
 }
