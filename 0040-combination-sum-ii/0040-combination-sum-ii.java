@@ -6,7 +6,6 @@ class Solution {
             ans.add(new ArrayList<>(curr));
             return;
         }
-      //  if(sum > target) return;
        //loop for calls
        for(int j = i; j < candidates.length; j++){
 
