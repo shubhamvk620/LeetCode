@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shubhamvk620/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamvk620/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/shubhamvk620/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/shubhamvk620/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhamvk620/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/shubhamvk620/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shubhamvk620/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shubhamvk620/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
