@@ -16,10 +16,13 @@
 class Solution {
         boolean isSame = false;
     public void hasPathSum(TreeNode root, int targetSum, int ans){
+        //checking leaf is null or not
         if(root == null){
             return;
         }
+        // add curr root node in ans before call
         ans += root.val;
+        
         if(ans == targetSum && root.left == null && root.right == null){
             isSame = true;
             return;
@@ -29,10 +32,9 @@ class Solution {
     hasPathSum(root.right, targetSum, ans);
     }
     public boolean hasPathSum(TreeNode root, int targetSum) {
+        // check tree is null or not
         if(root == null){return false;}
-        //
-        // int sum += root.val;
-        // int ans = sum;
+       
         hasPathSum(root, targetSum, 0);
         return isSame;
     }
