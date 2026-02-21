@@ -4,12 +4,10 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         for(int i = 0; i < k.length(); i++){
             char ch = k.charAt(i);
-            //agar character letter ya digit hai toh hi append krna sirf
-             if(Character.isLetterOrDigit(ch)){
-                sb.append(ch);
+            if((ch >= 'a' && ch <= 'z') || (ch >= '0' && ch <= '9')){
+                sb.append(k.charAt(i));
         }
         }
-        // comparing reverse
         return sb.toString().equals(sb.reverse().toString());
     }
 }
