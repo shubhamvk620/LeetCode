@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/shubhamvk620/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/shubhamvk620/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2315-count-asterisks](https://github.com/shubhamvk620/LeetCode/tree/master/2315-count-asterisks) |
+| [2810-faulty-keyboard](https://github.com/shubhamvk620/LeetCode/tree/master/2810-faulty-keyboard) |
 ## Greedy
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/shubhamvk620/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2293-min-max-game](https://github.com/shubhamvk620/LeetCode/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shubhamvk620/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2810-faulty-keyboard](https://github.com/shubhamvk620/LeetCode/tree/master/2810-faulty-keyboard) |
 | [3379-transformed-array](https://github.com/shubhamvk620/LeetCode/tree/master/3379-transformed-array) |
 ## Binary Search
 |  |
