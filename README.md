@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shubhamvk620/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/shubhamvk620/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shubhamvk620/LeetCode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/shubhamvk620/LeetCode/tree/master/0415-add-strings) |
 | [0771-jewels-and-stones](https://github.com/shubhamvk620/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/shubhamvk620/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1528-shuffle-string](https://github.com/shubhamvk620/LeetCode/tree/master/1528-shuffle-string) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shubhamvk620/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shubhamvk620/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/shubhamvk620/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/shubhamvk620/LeetCode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shubhamvk620/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/shubhamvk620/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/shubhamvk620/LeetCode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/shubhamvk620/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/shubhamvk620/LeetCode/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/shubhamvk620/LeetCode/tree/master/1920-build-array-from-permutation) |
