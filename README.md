@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/shubhamvk620/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shubhamvk620/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhamvk620/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shubhamvk620/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shubhamvk620/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2057-smallest-index-with-equal-value](https://github.com/shubhamvk620/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shubhamvk620/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/shubhamvk620/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1528-shuffle-string](https://github.com/shubhamvk620/LeetCode/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/shubhamvk620/LeetCode/tree/master/1544-make-the-string-great) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shubhamvk620/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/shubhamvk620/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/shubhamvk620/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/shubhamvk620/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/shubhamvk620/LeetCode/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/shubhamvk620/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shubhamvk620/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shubhamvk620/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shubhamvk620/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shubhamvk620/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2293-min-max-game](https://github.com/shubhamvk620/LeetCode/tree/master/2293-min-max-game) |
