@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/shubhamvk620/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/shubhamvk620/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2315-count-asterisks](https://github.com/shubhamvk620/LeetCode/tree/master/2315-count-asterisks) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shubhamvk620/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2810-faulty-keyboard](https://github.com/shubhamvk620/LeetCode/tree/master/2810-faulty-keyboard) |
 ## Greedy
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhamvk620/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shubhamvk620/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhamvk620/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shubhamvk620/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Number Theory
 |  |
 | ------- |
