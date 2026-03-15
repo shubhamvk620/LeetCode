@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamvk620/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/shubhamvk620/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/shubhamvk620/LeetCode/tree/master/1528-shuffle-string) |
+| [1652-defuse-the-bomb](https://github.com/shubhamvk620/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shubhamvk620/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/shubhamvk620/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/shubhamvk620/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shubhamvk620/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhamvk620/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhamvk620/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1652-defuse-the-bomb](https://github.com/shubhamvk620/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shubhamvk620/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Number Theory
 |  |
