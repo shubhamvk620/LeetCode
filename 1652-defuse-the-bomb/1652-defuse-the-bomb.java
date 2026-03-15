@@ -8,30 +8,30 @@ class Solution {
         } 
 
         if(k > 0){
-        for(int q = 0; q < arr.length; q++){
+        for(int i = 0; i < arr.length; i++){
             int count = 0;
             int add = 0;
-            int v = q;
+            int j = i;
             while(count < k){
-                add += code[(v + 1)%n];
-                v++;
+                add += code[(j + 1)%n];
+                j++;
                 count++;
             }
-            arr[q] = add;
+            arr[i] = add;
         }
        }
 
          if(k < 0){
-        for(int q = 0; q < arr.length; q++){
+        for(int i = 0; i < arr.length; i++){
             int count = 0;
             int add = 0;
-            int v = q;
+            int j = i;
             while(count < Math.abs(k)){
-                add += code[(v - 1 +n)%n];
-                v--;
+                add += code[(j - 1 +n)%n];
+                j--;
                 count++;
             }
-            arr[q] = add;
+            arr[i] = add;
         }
        }
 
