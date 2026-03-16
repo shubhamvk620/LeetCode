@@ -7,7 +7,8 @@ class Solution {
             if(colors[i] == colors[j]){j--;}
             else{
                 ans = Math.max(ans, Math.abs(i-j));
-                i++; j = colors.length-1; 
+                i++; 
+                j = colors.length-1; 
             }
         }
         return ans;
