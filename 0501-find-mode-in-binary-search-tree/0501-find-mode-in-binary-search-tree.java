@@ -19,24 +19,25 @@ class Solution {
             return;
         }
        
-
         same(root.left,map);
          map.put(root.val, map.getOrDefault(root.val,0)+1);
         same(root.right,map);
     }
     public int[] findMode(TreeNode root) {
-       // if(root == null) return new int[root];
+
         Map<Integer,Integer> map = new HashMap<>();
         same(root,map);
 
         int max = Integer.MIN_VALUE;
-        List<Integer>list = new ArrayList<>();
-        for(Integer key : map.keySet()){
-           max = Math.max(max,map.get(key));
+       
+        for(Integer key : map.keySet()){ // traverse on value and find largest value
+           max = Math.max(max,map.get(key)); // put largest value in map
         }
        
+        List<Integer>list = new ArrayList<>();
+
        for(Map.Entry<Integer,Integer> entry : map.entrySet()){
-        if(entry.getValue() == max)
+        if(entry.getValue() == max) // if other key have value same as map put the key in list.
         list.add(entry.getKey());
        }
 
