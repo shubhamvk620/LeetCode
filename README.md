@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/shubhamvk620/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/shubhamvk620/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhamvk620/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/shubhamvk620/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shubhamvk620/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/shubhamvk620/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shubhamvk620/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/shubhamvk620/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/shubhamvk620/LeetCode/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/shubhamvk620/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shubhamvk620/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/shubhamvk620/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/shubhamvk620/LeetCode/tree/master/1518-water-bottles) |
