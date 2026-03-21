@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shubhamvk620/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/shubhamvk620/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shubhamvk620/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/shubhamvk620/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/shubhamvk620/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/shubhamvk620/LeetCode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2293-min-max-game](https://github.com/shubhamvk620/LeetCode/tree/master/2293-min-max-game) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/shubhamvk620/LeetCode/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shubhamvk620/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shubhamvk620/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/shubhamvk620/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/shubhamvk620/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/shubhamvk620/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/shubhamvk620/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamvk620/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/shubhamvk620/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Binary Search Tree
 |  |
 | ------- |
