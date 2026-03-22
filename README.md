@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/shubhamvk620/LeetCode/tree/master/2315-count-asterisks) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shubhamvk620/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2810-faulty-keyboard](https://github.com/shubhamvk620/LeetCode/tree/master/2810-faulty-keyboard) |
+| [3110-score-of-a-string](https://github.com/shubhamvk620/LeetCode/tree/master/3110-score-of-a-string) |
 ## Greedy
 |  |
 | ------- |
