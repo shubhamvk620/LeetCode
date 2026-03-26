@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shubhamvk620/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shubhamvk620/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shubhamvk620/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/shubhamvk620/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shubhamvk620/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/shubhamvk620/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/shubhamvk620/LeetCode/tree/master/0509-fibonacci-number) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shubhamvk620/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/shubhamvk620/LeetCode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/shubhamvk620/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/shubhamvk620/LeetCode/tree/master/1518-water-bottles) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shubhamvk620/LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhamvk620/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
