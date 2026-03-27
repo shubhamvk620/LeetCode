@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/shubhamvk620/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shubhamvk620/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3379-transformed-array](https://github.com/shubhamvk620/LeetCode/tree/master/3379-transformed-array) |
+| [3866-first-unique-even-element](https://github.com/shubhamvk620/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/shubhamvk620/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/shubhamvk620/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shubhamvk620/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3866-first-unique-even-element](https://github.com/shubhamvk620/LeetCode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/shubhamvk620/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/shubhamvk620/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/shubhamvk620/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [3866-first-unique-even-element](https://github.com/shubhamvk620/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
